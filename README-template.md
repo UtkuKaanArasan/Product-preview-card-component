@@ -17,6 +17,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 
 ## Overview
+Product Preview Card Component that is built with HTML, CSS, Bootstarp and Javascript.
 
 ### The challenge
 
@@ -27,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./design/Screenshot-of-the-final-component.png)
 
 ### Links
 
@@ -39,14 +40,16 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS
 - Bootstrap
+- JS
+
 ### Continued development
 
 Can be created as React component
 
 ### Useful resources
 
-- [Example resource 1](https://getbootstrap.com/docs/5.2/getting-started/introduction/) - Documentation
-- [Example resource 2](https://www.stackoverflow.com) - Basically a debug website
+- [Bootstrap Docs](https://getbootstrap.com/docs/5.2/getting-started/introduction/) - Documentation
+- [Stack Overflow](https://www.stackoverflow.com) - Basically a debug website
 
 ## Author
 
