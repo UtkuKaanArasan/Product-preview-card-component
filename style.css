@@ -20,7 +20,7 @@ body{
     font-family: 'Fraunces', serif;
     font-weight: 700;
     text-align: left;
-    font-size: 2.5rem;
+    font-size: 2rem;
 }
 
 #text{
@@ -29,18 +29,28 @@ body{
     font-size: 14px;
 }
 
-.discounted-price{
+#discounted-price{
     font-size: 2rem;
     color: var(--primary-dark-cyan);
+    font-family: 'Fraunces', sans-serif;
+    font-weight: 700;
 }
 
-.normal-price{
+#normal-price{
     font-size: 1rem;
 }
 
-.btn-success{
+.btn-primary{
     background-color: var(--primary-dark-cyan);
 }
-.btn-success:hover{
+.btn-primary:hover{
     background-color: var(--primary-dark-cyan-hover);
+}
+
+/* Footer, unrelated to challenge */
+
+.footer{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
 }

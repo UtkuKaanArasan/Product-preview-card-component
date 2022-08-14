@@ -46,7 +46,7 @@ Can be created as React component
 ### Useful resources
 
 - [Example resource 1](https://getbootstrap.com/docs/5.2/getting-started/introduction/) - Documentation
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Example resource 2](https://www.stackoverflow.com) - Basically a debug website
 
 ## Author
 
